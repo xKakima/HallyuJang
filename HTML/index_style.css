@@ -1,0 +1,48 @@
+body{
+    background-color: #18191e;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+nav li{
+    width: 25%;
+    display: inline-block;
+    font-size: 25px;
+    text-align: left;
+}
+
+nav ul{
+    white-space: nowrap;
+    max-width: 1000px;
+    margin: 0 0;
+}
+
+#preOrder{
+    background-color: #2d2e36;
+    border-radius: 10px;
+    height: 300px;
+    margin: 20px 10px;
+    padding: 10px 10px;
+}
+#preOrderItems{
+    height: 100px;
+    width: 500px;
+}
+#preOrderItems img{
+    max-height: 175px;
+    max-width: 175px;
+    width: auto;
+    height: auto;
+}
+
+#announcements{
+    background-color: white;
+    height: 250px;
+    width: 450px;
+    position: relative;
+    left: 1350px;
+    bottom: 150px;
+   
+}
